@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MMS>
+  <Settings>
+    <Groups>
+      <Item>1-CAP電容類</Item>
+      <Item>2-IND電感類</Item>
+      <Item>3-二三極管</Item>
+    </Groups>
+    <MoveType />
+  </Settings>
+</MMS>

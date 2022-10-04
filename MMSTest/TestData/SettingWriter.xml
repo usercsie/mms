@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MMS>
+  <Settings>
+    <Group>
+      <Item>0-RES電阻類</Item>
+      <Item>1-CAP電容類</Item>
+      <Item>2-IND電感類</Item>
+      <Item>3-二三極管</Item>
+    </Group>
+    <MoveType>
+      <Item Id="101" DESC="材料收料" Operator="+" />
+      <Item Id="102" DESC="材料收料-錯誤反冲" Operator="-" />
+      <Item Id="601" DESC="材料出貨" Operator="-" />
+      <Item Id="602" DESC="材料出貨-錯誤反冲" Operator="+" />
+      <Item Id="701" DESC="材料出貨-Test" Operator="-" />
+    </MoveType>
+  </Settings>
+</MMS>
